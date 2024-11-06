@@ -1,4 +1,3 @@
-// routes/cartRoutes.js
 import express from "express";
 import {
   addToCart,
